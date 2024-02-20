@@ -1,0 +1,804 @@
+{
+  "tags": [
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 205
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 320
+    },
+    {
+      "title": "HTML5",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Vue.js",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "CSS3",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 205
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 320
+    },
+    {
+      "title": "HTML5",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Vue.js",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "CSS3",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 205
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 320
+    },
+    {
+      "title": "HTML5",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Vue.js",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "CSS3",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 205
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 320
+    },
+    {
+      "title": "HTML5",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Vue.js",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "CSS3",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 205
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 320
+    },
+    {
+      "title": "HTML5",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Vue.js",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "CSS3",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 205
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 320
+    },
+    {
+      "title": "HTML5",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Vue.js",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "CSS3",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 205
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 320
+    },
+    {
+      "title": "HTML5",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Vue.js",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "CSS3",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 205
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 320
+    },
+    {
+      "title": "HTML5",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Vue.js",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "CSS3",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 205
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 320
+    },
+    {
+      "title": "HTML5",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Vue.js",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "CSS3",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 205
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 320
+    },
+    {
+      "title": "HTML5",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Vue.js",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "CSS3",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 205
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 320
+    },
+    {
+      "title": "HTML5",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Vue.js",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "CSS3",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 205
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 320
+    },
+    {
+      "title": "HTML5",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Vue.js",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "CSS3",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 205
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 320
+    },
+    {
+      "title": "HTML5",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Vue.js",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "CSS3",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 205
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 320
+    },
+    {
+      "title": "HTML5",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Vue.js",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "CSS3",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 205
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 320
+    },
+    {
+      "title": "HTML5",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Vue.js",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "CSS3",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 205
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 320
+    },
+    {
+      "title": "HTML5",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Vue.js",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "CSS3",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 205
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 320
+    },
+    {
+      "title": "HTML5",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Vue.js",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "CSS3",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 205
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 320
+    },
+    {
+      "title": "HTML5",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Vue.js",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "CSS3",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 205
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 320
+    },
+    {
+      "title": "HTML5",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Vue.js",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "CSS3",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 205
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 320
+    },
+    {
+      "title": "HTML5",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Vue.js",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "CSS3",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 65
+    }
+  ]
+}
